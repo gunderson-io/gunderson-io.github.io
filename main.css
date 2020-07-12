@@ -1,0 +1,23 @@
+﻿body {
+	font-family: 'Averia';
+	font-weight: bold;
+	font-style: normal;
+	text-align: center;
+	color: #999999;
+	background-color: black;
+}
+
+img {
+	border: 0px;
+}
+
+a {
+	color: #666666;
+	text-decoration: none;
+	padding: 10px;
+}
+
+a:hover {
+	color: #cccccc;
+	text-decoration: none;
+}
